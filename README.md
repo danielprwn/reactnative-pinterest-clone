@@ -1,4 +1,5 @@
-# React Native Instagram clone app.Pinterest clone  app. 
+# React Native Instagram clone app.Pinterest clone app. 
+
 ✔ Instagram singup and singin pages.
 ✔ Viewing Instagram Likes.
 ✔ Likes posts.
