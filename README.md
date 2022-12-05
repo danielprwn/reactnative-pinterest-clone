@@ -1,4 +1,4 @@
-# React Native Instagram clone app.Pinterest clone app. 
+# React Native Pinterest clone app. 
 
 ✔ Pin browsing.
 ✔ Adding pins and description.
