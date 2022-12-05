@@ -1,8 +1,8 @@
 # React Native Instagram clone app.Pinterest clone app. 
 
-✔ Instagram singup and singin pages.
-✔ Viewing Instagram Likes.
-✔ Likes posts.
+✔ Pin browsing.
+✔ Adding pins and description.
+✔ Display of pins in 2 or 3 columns depending on screen position.
 
 
 ## Technologies ⚛ React Native ✅ StyleSheet ✅ Expo ✅ Expo Image Picker
